@@ -1,3 +1,5 @@
+package thread01;
+
 
 public class HappyBus {
 	

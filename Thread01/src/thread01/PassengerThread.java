@@ -1,3 +1,4 @@
+package thread01;
 
 public class PassengerThread extends Thread{
 
