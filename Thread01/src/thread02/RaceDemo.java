@@ -1,4 +1,4 @@
-package tread02;
+package thread02;
 
 public class RaceDemo {
 	public static void main(String[] args){
